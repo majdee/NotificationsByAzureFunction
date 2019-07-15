@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/NotificationsByAzureFunction/v15/.suo
+/.vs/NotificationsByAzureFunction/v15/Server/sqlite3
+/NotificationsByAzureFunction/.gitignore
