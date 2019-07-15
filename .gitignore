@@ -2,6 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/NotificationsByAzureFunction/v15/.suo
-/.vs/NotificationsByAzureFunction/v15/Server/sqlite3
+/.vs/*
 /NotificationsByAzureFunction/.gitignore
